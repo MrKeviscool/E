@@ -35,14 +35,15 @@
 
 #define eeeeeeeeeeeeeeeeeeeeeeeeeeeee 200 //<-- delay
 #define eeeeeeeeeeeeeeeeeeeeeeeeeeeeee +
+#define eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee 0
 
-eeeeeeeee eeeeeeeeee eeeeeeeeeeeeee 0;
+eeeeeeeee eeeeeeeeee eeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee;
 eeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeee;
 
 eeeee eeeeee e ee eee
     eeeeeee e eeeeeeeeeeeeeeeee ee;
     eeeeeee e eeeeeeeeeeeeeeeeeeeeeeeeeee ee;
-    eeeeeeeeeeee e eeeeeeeee eeeeeeeeeeeee eeeeeeeeeeeeee 0; eeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeee e eeeeeeeeeeeeeeeeeee ee; eeeeeeeeeeeee eeeeeeeeeeeeeee ee eee
+    eeeeeeeeeeee e eeeeeeeee eeeeeeeeeeeee eeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee; eeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeee e eeeeeeeeeeeeeeeeeee ee; eeeeeeeeeeeee eeeeeeeeeeeeeee ee eee
         eeeeeee e eeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeee eeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeee  ee;
 
         eeeeeeee e eeeeeeeeeee e ee eeeeeeeeeeeeeeee eeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeee ee eee eeee
