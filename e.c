@@ -3,10 +3,8 @@
 
 #define e (
 #define ee )
-
 #define eee {
 #define eeee }
-
 #define eeeee void
 #define eeeeee main
 #define eeeeeee printf
@@ -22,7 +20,6 @@
 #define eeeeeeeeeeeeeeeee "hello world!"
 #define eeeeeeeeeeeeeeeeee char
 #define eeeeeeeeeeeeeeeeeee hworld
-
 #define eeeeeeeeeeeeeeeeeeee [
 #define eeeeeeeeeeeeeeeeeeeee ]
 #define eeeeeeeeeeeeeeeeeeeeee sizeof
@@ -32,10 +29,10 @@
 #define eeeeeeeeeeeeeeeeeeeeeeeeee ,
 #define eeeeeeeeeeeeeeeeeeeeeeeeeee "\n"
 #define eeeeeeeeeeeeeeeeeeeeeeeeeeee "look at this cool slow text brug"
-
 #define eeeeeeeeeeeeeeeeeeeeeeeeeeeee 200 //<-- delay
 #define eeeeeeeeeeeeeeeeeeeeeeeeeeeeee +
 #define eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee 0
+
 
 eeeeeeeee eeeeeeeeee eeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee;
 eeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeeeeeeeeeee;
